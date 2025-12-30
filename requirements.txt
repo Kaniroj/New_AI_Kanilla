@@ -1,0 +1,10 @@
+
+openai
+python-dotenv
+numpy
+pandas
+lancedb
+fastapi
+google-generativeai
+uvicorn
+pydantic-ai
