@@ -53,3 +53,4 @@ för att Skapa vector-databasen körs = uv run python ingestion.py
 för att Starta API:t körs = uv run python -m uvicorn api:app --reload
 för att Starta frontend körs = uv run python -m streamlit run frontend/app.py
 ![alt text](image.png)
+![alt text](image-1.png)
