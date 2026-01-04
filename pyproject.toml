@@ -15,6 +15,7 @@ dependencies = [
     "python-dotenv>=1.2.1",
     "scikit-learn>=1.7.2",
     "sentence-transformers>=5.2.0",
+    "streamlit>=1.52.2",
     "uvicorn>=0.40.0",
 ]
 
